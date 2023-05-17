@@ -1,4 +1,10 @@
-body {
-    backgroungd-color:#015d77;
-    color: rgb(2, 2, 95);
-    
+body{
+    background-color: #210253;
+    color: rgb(107, 107, 211)
+}
+.cabecalho {
+    background-color: #383D58;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    }
