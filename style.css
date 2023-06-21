@@ -23,7 +23,15 @@ body{
 .estudante-titulo{
   text-align: center;
 }
-.estudante-todos{
+.estudante{
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.    rafael{
+  width: 120px;
+  height: 55%;
+}
+.raquel{
+  width: 120px;
+  height: 55%;
 }
